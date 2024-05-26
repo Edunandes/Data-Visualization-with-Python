@@ -5,7 +5,9 @@ Features:
 This project includes examples of the following chart types:
 
 Bar Chart: Used to compare different categories or groups.
+
 Pie Chart: Ideal for showing proportions and percentages.
+
 Stacked Area Chart: Great for visualizing the cumulative effect of multiple data series.
 Line Chart: Perfect for illustrating trends over time.
 Histogram: Useful for depicting the distribution of numerical data.
