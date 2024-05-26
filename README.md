@@ -1,4 +1,4 @@
-**Welcome to the Data Visualization Project! **
+**Welcome to the Data Visualization Project!**
 
 This repository contains a comprehensive suite of data visualization examples using Python and Jupyter Notebook. 
 The primary objective of this project is to provide a wide range of visual representations for different types of data, aiding in the clear and effective communication of insights.
